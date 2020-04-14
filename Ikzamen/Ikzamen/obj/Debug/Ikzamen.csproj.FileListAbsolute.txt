@@ -1,0 +1,13 @@
+C:\Users\Пользователь\source\repos\Ikzamen\Ikzamen\bin\Debug\Ikzamen.exe.config
+C:\Users\Пользователь\source\repos\Ikzamen\Ikzamen\bin\Debug\Ikzamen.exe
+C:\Users\Пользователь\source\repos\Ikzamen\Ikzamen\bin\Debug\Ikzamen.pdb
+C:\Users\Пользователь\source\repos\Ikzamen\Ikzamen\obj\Debug\Ikzamen.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\Ikzamen\Ikzamen\obj\Debug\Ikzamen.Aftorizacia.resources
+C:\Users\Пользователь\source\repos\Ikzamen\Ikzamen\obj\Debug\Ikzamen.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Ikzamen\Ikzamen\obj\Debug\Ikzamen.Reg.resources
+C:\Users\Пользователь\source\repos\Ikzamen\Ikzamen\obj\Debug\Ikzamen.StartAdmin.resources
+C:\Users\Пользователь\source\repos\Ikzamen\Ikzamen\obj\Debug\Ikzamen.StartPol.resources
+C:\Users\Пользователь\source\repos\Ikzamen\Ikzamen\obj\Debug\Ikzamen.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Ikzamen\Ikzamen\obj\Debug\Ikzamen.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Ikzamen\Ikzamen\obj\Debug\Ikzamen.exe
+C:\Users\Пользователь\source\repos\Ikzamen\Ikzamen\obj\Debug\Ikzamen.pdb
